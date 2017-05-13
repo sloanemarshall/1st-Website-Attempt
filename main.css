@@ -66,3 +66,12 @@ p {
    display:none;
    background: #ccc;
 }
+.nav-menu ul li:hover > ul {
+   display:inline-block;
+}
+.nav-menu > ul > li:after {
+   content: "\25BC"; /*escaped unicode for the down arrow*/
+   font-size: .5em;
+   display: inline;
+   position: relative;
+   }
