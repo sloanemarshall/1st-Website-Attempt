@@ -5,7 +5,10 @@ body {
 	text-align: center;
 	width: 100%;
 }
-
+Nav-wrapper{
+	Display: float;
+	position: left;
+}
 h1 {
 	font-size: 32px;
 }
