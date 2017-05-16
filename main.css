@@ -6,8 +6,8 @@ body {
 	width: 100%;
 }
 Nav ul{
-	Display: float;
-	position: left;
+	float:left ;
+	
 }
 h1 {
 	font-size: 32px;
